@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/industryTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Информационные технологии"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/industryDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Описание: ИТ-индустрия охватывает разработку программного обеспечения, работу с данными, кибербезопасность и многое другое."
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/industryTrends"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Текущие тренды: Искусственный интеллект, облачные технологии, интернет вещей (IoT)."
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/industryJobs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Востребованные профессии: Разработчик программного обеспечения, специалист по данным, инженер по кибербезопасности."
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/industryTechnologies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Новейшие технологии: Машинное обучение, блокчейн, квантовые вычисления."
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/industryFuture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Перспективы: ИТ продолжает развиваться с высокими темпами, предлагая все больше карьерных возможностей."
+        android:paddingTop="8dp" />
+
+</LinearLayout>

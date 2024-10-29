@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406709920718",
+    "project_id": "androidauth-b53bd",
+    "storage_bucket": "androidauth-b53bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406709920718:android:01ca72a2aee85a0962c19f",
+        "android_client_info": {
+          "package_name": "ru.mirea.bachurinaaa.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA0CEEot4uE9n-827mZjw87dwRR7Q09Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
